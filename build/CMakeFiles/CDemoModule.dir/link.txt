@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,libCDemoModule.so -o libCDemoModule.so CMakeFiles/CDemoModule.dir/CDemoModule.cpp.o -L/opt/softkinetic/DepthSenseSDK/lib -lopenrave0.8 -lDepthSense -Wl,-rpath,/opt/softkinetic/DepthSenseSDK/lib: 

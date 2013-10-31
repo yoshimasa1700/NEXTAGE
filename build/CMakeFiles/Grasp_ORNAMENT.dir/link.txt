@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Grasp_ORNAMENT.dir/Grasp_ORNAMENT.cpp.o  -o Grasp_ORNAMENT -rdynamic -lopenrave0.8 -lopenrave0.8 -lopenrave0.8-core -lboost_thread-mt 
